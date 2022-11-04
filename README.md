@@ -42,10 +42,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/andy-lau-3a8897221/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:andyolau88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andyolau888@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<!-- </p> -->
 
 <!---
 andy-1au/andy-1au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
