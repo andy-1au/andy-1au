@@ -10,6 +10,8 @@
 - 🌱 &nbsp; Learning more about Web Apps/Design, Frontend and Backend.
 - ✍️ &nbsp; Hobbies are reading about current world finance and playing video games.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
