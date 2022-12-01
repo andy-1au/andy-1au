@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.
 - 🎓 &nbsp; Studying Computer Science and Business at Lehigh University.
-- 💼 &nbsp; Working as a Software Developer/Data Archivist at Lehigh University.
-- 🌱 &nbsp; Learning more about Web Apps/Design, Frontend and Backend.
-- ✍️ &nbsp; Hobbies are reading about current world finance and playing video games.
+- 💼 &nbsp; Working as a Software Developer & Data Archivist at Lehigh University.
+- 🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Machine Learning
+- ✍️ &nbsp; Keeping up with current world finance, playing video games, and exploring nature.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
