@@ -2,7 +2,7 @@
 
 <h1> print("Hello, I'm Andy!")</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.
 - 🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.
@@ -12,7 +12,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -40,7 +40,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/andy-lau-3a8897221/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
