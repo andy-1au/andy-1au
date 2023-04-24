@@ -5,10 +5,11 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.
-- 🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.
+- 🎓 &nbsp; Studying Computer Science at Lehigh University. 
+- 🖥️ &nbsp; Currently a Software Developer & Data Archivist at Lehigh University.
 - 💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group 
 - 🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Python Scripting
-- ✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.
+- 👾 &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
