@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<h1> print("Hello, I'm Andy!")</h1>
+<h1 align="center"> print("Hello, I'm Andy!")</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me! </h2>
 
@@ -36,9 +36,9 @@
 
 <br/>
 
-<h2> 🤝🏻 &nbsp;Connect with Me </h2>
+<h2 align="center"> 🤝🏻 &nbsp;Connect with Me </h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/andy-1au/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:andyolau88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andyolau888@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
