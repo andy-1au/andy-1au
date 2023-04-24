@@ -1,8 +1,8 @@
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
 
-<h1 align="center"> print("Hello, I'm Andy!")</h1>
+<h1 align="center"> print("Hello, I'm Andy!")</h2>
 
-<h2 align="center"> 👨🏻‍💻 &nbsp;About Me! </h2>
+<h2 align="center"> 👨🏻‍💻 &nbsp;About Me! </h3>
 
 <ul align="center">
   🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer
