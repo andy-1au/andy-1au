@@ -17,7 +17,7 @@
 <ul>
   💻 &nbsp; <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
   <br>
-  🌐 &nbsp; <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js">
+  🌐 &nbsp; <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
   <br>
   ⚙️ &nbsp; <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
   <br>
