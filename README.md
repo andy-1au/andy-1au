@@ -2,7 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=FFA500&multiline=true&width=500&height=100&lines=print(%22Hello%2C+I'm+Andy!%22);+" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
 ![GitHub followers](https://img.shields.io/github/followers/andy-1au?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/andy-1au?style=social)
+</div>
 
 Hi there! I'm Andy, a passionate software engineer. I love to build and contribute to innovative projects, and I'm constantly learning new technologies to improve my skills!
 
