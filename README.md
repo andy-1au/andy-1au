@@ -1,27 +1,26 @@
-<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png"> -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=177EF7&multiline=true&width=500&height=100&lines=print(%22Hello%2C+I'm+Andy!%22);+" alt="Typing SVG" /></a>
+</div>
 
-<h1 align="center"> print("Hello, I'm Andy!")</h1>
+<h2 align="center"> 👨🏻‍💻 &nbsp;About Me! </h2>
 
-<h2> 👨🏻‍💻 &nbsp;About Me! </h2>
-
-- 🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.
-- 🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.
-- 💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group 
-- 🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Python Scripting
-- ✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.
+<ul>
+  <li>🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.</li>
+  <li>🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.</li>
+  <li>💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group </li>
+  <li>🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Python Scripting</li>
+  <li>✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.</li>
+</ul>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <ul>
-  💻 &nbsp; <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
-  <br>
-  🌐 &nbsp; <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <br>
-  ⚙️ &nbsp; <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
-  <br>
-  🔧 &nbsp; <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio">
+  <li>💻 &nbsp; <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></li>
+  <li>🌐 &nbsp; <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"></li>
+  <li>⚙️ &nbsp; <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></li>
+  <li>🔧 &nbsp; <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio"></li>
 </ul>
 
 <br>
@@ -43,8 +42,3 @@
   <a href="https://www.linkedin.com/in/andy-1au/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:andyolau88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andyolau888@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<!---
-andy-1au/andy-1au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
