@@ -10,13 +10,16 @@
 </div>
 
 <div align="center">
-  <h2>🌟 &nbsp;About Me</h2>
-  <p>🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.</p>
-  <p>🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.</p>
-  <p>💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group</p>
-  <p>🌱 &nbsp; Currently learning more about Web Apps, Design, Frontend & Backend, and Python Scripting</p>
-  <p>✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.</p>
+  <h2>🌟 About Me</h2>
+  <p>
+    🤔&nbsp;Empowering myself to learn everyday and to become a better programmer.<br>
+    🎓&nbsp;Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.<br>
+    💼&nbsp;Incoming Application Developer Intern @ Lincoln Financial Group<br>
+    🌱&nbsp;Currently learning more about Web Apps, Design, Frontend & Backend, and Python Scripting<br>
+    ✍️&nbsp;Keeping up with current World Finance, playing Video Games, and exploring Nature.
+  </p>
 </div>
+
 
 
 <div align="center">
