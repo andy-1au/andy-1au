@@ -63,7 +63,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <h2> 📈 &nbsp;My GitHub Stats </h2>
