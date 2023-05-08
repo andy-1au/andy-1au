@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-  <h2>🌟 &nbsp;About Me</h2>
+  <h2><font color="#FFA500">🌟 &nbsp;About Me</font></h2>
   <ul>
     <li>🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.</li>
     <li>🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.</li>
