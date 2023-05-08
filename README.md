@@ -34,13 +34,15 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=vision-friendly-dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
-<h2 align="center"> 🤝🏻 &nbsp;Connect with Me </h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andy-1au/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:andyolau88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andyolau888@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <br>
-  Please feel free to reach out if you have any questions or would like to collaborate on a project!
-</p>
+<div align="center">
+  <h2> 🤝🏻 &nbsp;Connect with Me </h2>
+  <p>
+    <a href="https://www.linkedin.com/in/andy-1au/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andy%20Lau-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:andyolau88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-andyolau888@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  </p>
+  <p>
+    Please feel free to reach out if you have any questions or would like to collaborate on a project!
+  </p>
+</div>
 
 
