@@ -9,8 +9,6 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/andy-1au?style=social">
 </div>
 
-![GitHub followers](https://img.shields.io/github/followers/andy-1au?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/andy-1au?style=social)
-
 <div align="center">
   <p>Hi there! I'm Andy, a passionate software engineer. I love to build and contribute to innovative projects, and I'm constantly learning new technologies to improve my skills!</p>
 </div>
