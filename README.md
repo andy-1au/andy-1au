@@ -18,12 +18,15 @@
 
 <div align="left">
   <h2>🌟 &nbsp;About Me</h2>
-    - 🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.
-    - 🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.
-    - 💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group
-    - 🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Python Scripting
-    - ✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.
+  <ul>
+    <li>🤔 &nbsp; Empowering myself to learn everyday and to become a better programmer.</li>
+    <li>🎓 &nbsp; Studying Computer Science at Lehigh University. Currently a Software Developer & Data Archivist at Lehigh University.</li>
+    <li>💼 &nbsp; Incoming Application Developer Intern @ Lincoln Financial Group</li>
+    <li>🌱 &nbsp; Learning more about Web Apps, Design, Frontend & Backend, and Python Scripting</li>
+    <li>✍️ &nbsp; Keeping up with current World Finance, playing Video Games, and exploring Nature.</li>
+  </ul>
 </div>
+
 
 ## 🛠 Skills
 
