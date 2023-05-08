@@ -36,7 +36,7 @@
 
 <h2>📬 Let's Connect!</h2>
 
-<div style="text-align: center;">
+<div align="center">
   <p>- LinkedIn: <a href="https://www.linkedin.com/in/andy-1au/">andy-1au</a></p>
   <p>- Email: <a href="mailto:andyolau888@gmail.com">andyolau888@gmail.com</a></p>
 </div>
