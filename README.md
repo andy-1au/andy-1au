@@ -26,13 +26,16 @@
 - 🛢️ DevOps: `Maven`, `Docker`, `AWS`
 - 🔧 Tools: `Git`, `GitHub`, `VSCode`, `RStudio`
 
-## 📈 GitHub Stats
-
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&theme=vision-friendly-dark&border_radius=5&card_width=500)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=vision-friendly-dark&border_radius=5&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=vision-friendly-dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
+<div align="center">
+  <h2> 📈 &nbsp;GitHub Stats </h2>
+  <p>
+    <a href="https://github.com/andy-1au">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&theme=vision-friendly-dark&border_radius=5&card_width=500"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=vision-friendly-dark&border_radius=5&card_width=500"/>
+      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=vision-friendly-dark&border_radius=5&card_width=500)"/>
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <h2> 🤝🏻 &nbsp;Connect with Me </h2>
