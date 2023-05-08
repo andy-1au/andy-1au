@@ -30,11 +30,38 @@
 <div align="left">
   <h2>🛠 Skills</h2>
   <ul>
-    <li>💻 Programming Languages: `Python`, `Java`, `Javascript`, `R`</li>
-    <li>🌐 Web Development: `HTML`, `CSS`, `Flask`, `Bootstrap`</li>
-    <li>📦 Databases: `PostgreSQL`, `SQLite`</li>
-    <li>🛢️ DevOps: `Maven`, `Docker`, `AWS`</li>
-    <li>🔧 Tools: `Git`, `GitHub`, `VSCode`, `RStudio`</li>
+    <li>
+      💻 Programming Languages:
+      <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
+      <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396">
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+      <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=r&logoColor=276DC3">
+    </li>
+    <li>
+      🌐 Web Development:
+      <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
+      <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+      <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=FFFFFF">
+      <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C">
+    </li>
+    <li>
+      📦 Databases:
+      <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791">
+      <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57">
+    </li>
+    <li>
+      🛢️ DevOps:
+      <img src="https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven&logoColor=C71A36">
+      <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED">
+      <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=FF9900">
+    </li>
+    <li>
+      🔧 Tools:
+      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git">
+      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github">
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+      <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio&logoColor=75AADB">
+    </li>
   </ul>
 </div>
 
