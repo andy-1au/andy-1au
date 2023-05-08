@@ -26,11 +26,11 @@ Hi there! I'm Andy, a passionate software engineer. I love to build and contribu
 
 ## 📈 GitHub Stats
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&theme=orange&border_radius=5&card_width=500)
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&theme=vision-friendly-dark&border_radius=5&card_width=500)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=orange&border_radius=5&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=vision-friendly-dark&border_radius=5&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=orange&border_radius=5&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=vision-friendly-dark&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
 ## 📬 Let's Connect!
 
