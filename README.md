@@ -14,11 +14,11 @@
 <div align="left">
   <h2>🌟 About Me</h2>
   <p>
-    🤔&nbsp;I <strong>empower</strong> myself to learn everyday and to become a better programmer.<br>
-    🎓&nbsp;I study Computer Science @ Lehigh University, working as a software developer and data archivist.<br>
-    💼&nbsp;I will soon start an Application Developer internship at Lincoln Financial Group. <br>
-    🌱&nbsp;Currently learning more about Web Apps, Design, Frontend & Backend, and Python Scripting<br>
-    ✍️&nbsp;Keeping up with current World Finance, playing Video Games, and exploring Nature.
+    📚 I <strong>empower</strong> myself to learn everyday and to <strong>become</strong> a better 💻 programmer.<br>
+    🎓 I <strong>study</strong> Computer Science @ Lehigh University, <strong>working</strong> as a 👨‍💻 software developer and data archivist.<br>
+    💼 I will soon <strong>start</strong> an Application Developer internship at Lincoln Financial Group. <strong>#TeamLincoln</strong> <br>
+    🌱 I am <strong>learning</strong> more about Web App Design, Frontend and Backend Development, and 🐍 Python Scripting.<br>
+    🎮 I <strong>enjoy</strong> playing 👾 video games, 🌲 exploring nature, and 🍲 eating good food.
   </p>
 </div>
 
