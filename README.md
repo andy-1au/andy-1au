@@ -4,8 +4,8 @@
 
 <div align="right">
     <a href="https://github.com/andy-1au">
-        <img align="right" height="180em" width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy-1au&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img align="right" height="180em" width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-1au&layout=compact&langs_count=8&theme=algolia"/>
-        <img align="right" height="180em" width="33%" src="http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=algolia&border_radius=5&card_width=500" />
+        <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andy-1au&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andy-1au&layout=compact&langs_count=8&theme=algolia"/>
+        <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=algolia&border_radius=5&card_width=500" />
     </a>
 </div>
