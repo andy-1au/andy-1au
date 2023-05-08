@@ -36,7 +36,10 @@
 
 ## 📬 Let's Connect!
 
-- LinkedIn: [andy-1au](https://www.linkedin.com/in/andy-1au/)
-- Email: [andyolau888@gmail.com](mailto:andyolau888@gmail.com)
+<div style="text-align: center;">
+  - LinkedIn: [andy-1au](https://www.linkedin.com/in/andy-1au/)
+  - Email: [andyolau888@gmail.com](mailto:andyolau888@gmail.com)
+</div>
+
 
 Please feel free to reach out if you have any questions or would like to collaborate on a project!
