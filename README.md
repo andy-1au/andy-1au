@@ -1,8 +1,12 @@
-# Andy-1au 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=500&pause=1000&color=FFA500&multiline=true&width=500&height=100&lines=print(%22Hello%2C+I'm+Andy!%22);+" alt="Typing SVG" /></a>
+</div>
 
 ![GitHub followers](https://img.shields.io/github/followers/andy-1au?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/andy-1au?style=social)
 
-Hi there! I'm Andy, a passionate software engineer and open source enthusiast. I love to build and contribute to innovative projects, and I'm constantly learning new technologies to improve my skills.
+Hi there! I'm Andy, a passionate software engineer. I love to build and contribute to innovative projects, and I'm constantly learning new technologies to improve my skills!
+
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ## 🛠 Skills
 
