@@ -9,7 +9,9 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/andy-1au?style=social">
 </div>
 
-<div align="center">
+<img alt="Coder GIF" height=250 width=350 align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
+<div align="left">
   <h2>🌟 About Me</h2>
   <p>
     🤔&nbsp;Empowering myself to learn everyday and to become a better programmer.<br>
