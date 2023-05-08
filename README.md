@@ -68,9 +68,9 @@
   <h2> 📈 &nbsp;My GitHub Stats </h2>
   <p>
     <a href="https://github.com/andy-1au">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&theme=vision-friendly-dark&border_radius=5&card_width=500"/>
-      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=vision-friendly-dark&border_radius=5&card_width=500)"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=vision-friendly-dark&border_radius=5&card_width=500"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andy-1au&show_icons=true&transparent&border_radius=5&card_width=500"/>
+      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=andy-1au&theme=transparent&border_radius=5&card_width=500)"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andy-1au&layout=compact&theme=transparent&border_radius=5&card_width=500"/>
     </a>
   </p>
 </div>
