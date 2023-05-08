@@ -10,11 +10,11 @@ Hi there! I'm Andy, a passionate software engineer. I love to build and contribu
 
 ## 🛠 Skills
 
-- 💻 Programming Languages: `JavaScript`, `Python`, `Go`, `Java`, `Flask`
-- 🌐 Web Development: `HTML`, `CSS`, `Bootstrap`, `React`, `Node.js`
-- 📦 Databases: `MySQL`, `PostgreSQL`, `MongoDB`, `Redis`
-- 🛢️ DevOps: `Docker`, `Kubernetes`, `CI/CD`, `AWS`, `Azure`, `GCP`
-- 🔧 Tools: `Git`, `GitHub`, `VSCode`, `Postman`, `Jira`
+- 💻 Programming Languages: `Python`, `Java`, `Javascript`, `R` 
+- 🌐 Web Development: `HTML`, `CSS`, `Flask`, `Bootstrap` 
+- 📦 Databases: `PostgreSQL`, `SQLite` 
+- 🛢️ DevOps: `Maven`, `Docker`, `AWS`
+- 🔧 Tools: `Git`, `GitHub`, `VSCode`, `RStudio`
 
 ## 📈 GitHub Stats
 
