@@ -27,14 +27,16 @@
   </ul>
 </div>
 
-
-## 🛠 Skills
-
-- 💻 Programming Languages: `Python`, `Java`, `Javascript`, `R` 
-- 🌐 Web Development: `HTML`, `CSS`, `Flask`, `Bootstrap` 
-- 📦 Databases: `PostgreSQL`, `SQLite` 
-- 🛢️ DevOps: `Maven`, `Docker`, `AWS`
-- 🔧 Tools: `Git`, `GitHub`, `VSCode`, `RStudio`
+<div align="right">
+  <h2>🛠 Skills</h2>
+  <ul>
+    <li>💻 Programming Languages: `Python`, `Java`, `Javascript`, `R`</li>
+    <li>🌐 Web Development: `HTML`, `CSS`, `Flask`, `Bootstrap`</li>
+    <li>📦 Databases: `PostgreSQL`, `SQLite`</li>
+    <li>🛢️ DevOps: `Maven`, `Docker`, `AWS`</li>
+    <li>🔧 Tools: `Git`, `GitHub`, `VSCode`, `RStudio`</li>
+  </ul>
+</div>
 
 <div align="center">
   <h2> 📈 &nbsp;GitHub Stats </h2>
