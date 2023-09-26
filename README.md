@@ -17,7 +17,7 @@
     📚 I <strong>empower</strong> myself to learn everyday and to <strong>become</strong> a better 💻 programmer.<br>
     🎓 I <strong>study</strong> Computer Science @ Lehigh University, <strong>working</strong> as a 👨‍💻 software developer and data archivist.<br>
     💼 I am working part-time as an <strong>Application Developer</strong> intern at Lincoln Financial Group. <strong>#TeamLincoln</strong> <br>
-    🌱 I am <strong>learning</strong> more about Web App Design, Frontend and Backend Development, and 🐍 Python Scripting.<br>
+    🌱 I am <strong>learning</strong> more about Web App Design, Fullstack Development, and 🐍 Python Scripting.<br>
     🎮 I <strong>enjoy</strong> playing 👾 video games, 🌲 exploring nature, and 🍲 eating good food.
   </p>
 </div>
